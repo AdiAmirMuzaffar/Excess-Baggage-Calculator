@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Excess Baggage Calculator</string>
+    <string name="title_activity_about">About Developer</string>
+    <string name="hint_weight">Baggage Weight (kg)</string>
+    <string name="hint_rate">Excess Rate per kg (RM)</string>
+    <string name="calculate">Calculate Fee</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+</resources>

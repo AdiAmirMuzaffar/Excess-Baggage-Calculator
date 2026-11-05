@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExcessBaggageCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary branding color for buttons, active states, and highlights -->
+        <item name="colorPrimary">@color/my_primary_color</item>
+        <!-- Secondary branding color -->
+        <item name="colorSecondary">@color/my_primary_color</item>
+        <!-- Status bar color above the action bar -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Theme.ExcessBaggageCalculator" parent="Base.Theme.ExcessBaggageCalculator" />
+</resources>

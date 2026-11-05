@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_primary_color">#FFC107</color>
+    <color name="primary_blue">#186049</color>
+    <color name="primary_dark">#4A943E</color>
+    <color name="accent_amber">#FFC107</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_dark">#D98327</color>
+    <color name="white">#FFFFFF</color>
+</resources>
