@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity {
             Intent shareIntent = new Intent(Intent.ACTION_SEND);
             shareIntent.setType("text/plain");
             shareIntent.putExtra(Intent.EXTRA_SUBJECT, "Excess Baggage Calculator App");
-            shareIntent.putExtra(Intent.EXTRA_TEXT, "Check out my Excess Baggage Fee Calculator app source code on GitHub: https://github.com/yourusername/namaprojek[cite: 1]");
+            shareIntent.putExtra(Intent.EXTRA_TEXT, "Check out my Excess Baggage Fee Calculator app source code on GitHub: https://github.com/AdiAmirMuzaffar/Excess-Baggage-Calculator.git");
             startActivity(Intent.createChooser(shareIntent, "Share via"));
             return true;
         } else if (id == R.id.action_about) {

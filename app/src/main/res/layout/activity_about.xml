@@ -39,7 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:autoLink="web"
-        android:text="https://github.com/yourusername/namaprojek"
+        android:text="https://github.com/AdiAmirMuzaffar/Excess-Baggage-Calculator.git"
         android:textColor="@color/primary_blue" />
 
     <TextView
