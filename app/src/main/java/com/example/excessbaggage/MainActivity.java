@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Error handling for empty inputs
         if (weightStr.isEmpty() || rateStr.isEmpty()) {
-            Toast.makeText(this, "Please enter both baggage weight and rate per kg[cite: 1].", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please enter both baggage weight and rate per kg.", Toast.LENGTH_SHORT).show();
             return;
         }
 
